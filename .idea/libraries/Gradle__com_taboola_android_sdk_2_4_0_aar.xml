@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.taboola:android-sdk:2.4.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2da0c952317053d04bc8d82d75692cc6/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2da0c952317053d04bc8d82d75692cc6/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2da0c952317053d04bc8d82d75692cc6/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.taboola/android-sdk/2.4.0/e5844d13523bd23b75732289ac027d62b6c27c35/android-sdk-2.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
